@@ -1,6 +1,6 @@
 # Indian-Election
 
-This repository contains dataset to our paper, “Uncovering the Dynamics of Political Hate Speech During Indian Election Campaign: A New Low-Resource Dataset and Baselines.”
+This repository contains dataset to our paper, “Uncovering Political Hate Speech During Indian Election Campaign: A New Low-Resource Dataset and Baselines.”
 
 Our dataset is also available in [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6OON4F).
 
