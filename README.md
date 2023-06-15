@@ -4,6 +4,8 @@ This repository contains dataset to our paper, “Uncovering Political Hate Spee
 
 Our dataset is also available in [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6OON4F).
 
+Read the paper introducing IEHate dataset [here](https://doi.org/10.36190/2023.23).
+
 If you find the dataset useful, please cite the paper as follows:
 
 ```bibtex
